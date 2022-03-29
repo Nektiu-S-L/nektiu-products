@@ -24,6 +24,7 @@ status-website:
   cname: uptime.nektiu.com/
   # baseUrl: /nektiu-products
   logoUrl: https://nektiu.com/wp-content/uploads/2021/07/prueba-letra-pequ.png
+  favicon: https://nektiu.com/wp-content/uploads/2018/12/MicrosoftTeams-image-2.png
   name: Nektiu Products Uptime
   introTitle: "**Uptime Monitoring page** for all Nektiu products"
   introMessage: For any urgent issues contact **clientes@nektiu.com** 
@@ -33,5 +34,9 @@ status-website:
     - title: Nektiu
       href: https://nektiu.com/
 
+assignees:
+  - Med-ELOMARI
+  - Nektiu
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
