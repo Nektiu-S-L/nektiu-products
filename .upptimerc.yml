@@ -9,7 +9,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /nektiu-products
   logoUrl: https://user-images.githubusercontent.com/11338137/160654176-ca34a78d-4cdf-4ec7-9ecf-f39d7276a6ab.png
   name: Nektiu Products Uptime
   introTitle: "**Uptime Monitoring page** for all Nektiu products"
