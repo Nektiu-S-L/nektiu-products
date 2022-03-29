@@ -2,15 +2,28 @@ owner: Nektiu-S-L
 repo: nektiu-products 
 
 sites:
-  - name: Nektiu
-    url: https://nektiu.com/
 
+  - name: Atento Live
+    url: https://atentolive.com/
+   
+  - name: Streamedia
+    url: https://streamedia.io/
+
+  - name: Sensetech
+    url: https://sensetech.io/
+    
+  - name: Certhash
+    url: https://certhash.com/
+   
+  - name: Nektiu Website
+    url: https://nektiu.com/
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /nektiu-products
-  logoUrl: https://user-images.githubusercontent.com/11338137/160654176-ca34a78d-4cdf-4ec7-9ecf-f39d7276a6ab.png
+  logoUrl: https://nektiu.com/wp-content/uploads/2021/07/prueba-letra-pequ.png
   name: Nektiu Products Uptime
   introTitle: "**Uptime Monitoring page** for all Nektiu products"
   introMessage: For any urgent issues contact **clientes@nektiu.com** 
