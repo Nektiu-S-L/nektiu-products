@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/atentolive.com",
     "slug": "atento-live",
     "status": "up",
-    "uptime": "81.50%",
-    "uptimeDay": "81.50%",
-    "uptimeWeek": "81.50%",
-    "uptimeMonth": "81.50%",
-    "uptimeYear": "81.50%",
+    "uptime": "47.78%",
+    "uptimeDay": "47.78%",
+    "uptimeWeek": "47.78%",
+    "uptimeMonth": "47.78%",
+    "uptimeYear": "47.78%",
     "time": 350,
     "timeDay": 350,
     "timeWeek": 350,
     "timeMonth": 350,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2022-03-29": 93
+      "2022-03-30": 84,
+      "2022-03-29": 204
     }
   },
   {
