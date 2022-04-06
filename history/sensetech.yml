@@ -1,7 +1,7 @@
 url: https://sensetech.io/
-status: up
-code: 200
-responseTime: 531
-lastUpdated: 2022-04-05T23:19:02.120Z
+status: down
+code: 502
+responseTime: 287
+lastUpdated: 2022-04-06T07:51:40.755Z
 startTime: Tue Mar 29 2022 16:13:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
